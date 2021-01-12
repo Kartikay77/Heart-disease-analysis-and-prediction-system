@@ -1,4 +1,6 @@
 # Heart disease analysis and prediction system
+We use 4 algorithms including Decision Tree, Logistic model tree algorithm, Random Forest algorithm, Support Vector Machine, to predict the heart diseases. Accuracy of the prediction level is high when using more number of attributes. Our aim is to perform predictive analysis using these data mining, machine learning algorithms on heart diseases and analyze the various mining, Machine Learning algorithms used and conclude which techniques are effective and efficient.
+
 ## [Python/Jupter Notebook code](https://github.com/Kartikay77/Heart-disease-analysis-and-prediction-system/blob/main/Heart%20disease%20analysis%20and%20prediction%20system%20(1).ipynb)
 
 

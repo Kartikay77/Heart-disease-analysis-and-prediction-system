@@ -27,6 +27,8 @@ We use 4 algorithms including Decision Tree, Logistic model tree algorithm, Rand
 ![Rf1 in R](https://github.com/Kartikay77/Heart-disease-analysis-and-prediction-system/blob/main/media/RF1%20R.jpg?raw=true)
 ![Rf2 in R](https://github.com/Kartikay77/Heart-disease-analysis-and-prediction-system/blob/main/media/RF%20R2.jpg?raw=true)
 
+## PowerBi Report:
+![PowerBI](https://github.com/Kartikay77/Heart-disease-analysis-and-prediction-system/blob/main/PowerBi.png)
 ## Sample tableau dashboard[ Heart Disease UCI Dashboard.twbx](https://github.com/Kartikay77/Heart-disease-analysis-and-prediction-system/blob/main/Heart%20Disease%20UCI%20Dashboard.twbx)
 
 
